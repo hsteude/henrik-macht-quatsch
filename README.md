@@ -22,7 +22,7 @@
 2. - [x] X macht eine kleine Änderung in einem zweiten Commit
 3. - [ ] Y erstellt einen Feature-Branch von main
 4. - [ ] Y macht Änderungen im Feature-Branch
-5. - [ ] X macht weitere Änderungen in main
+5. - [x] X macht weitere Änderungen in main
 6. - [ ] Y rebaset den Feature-Branch auf den aktuellen main
 
 ## B. Interaktiver Rebase (Squash und Umbenennen)
