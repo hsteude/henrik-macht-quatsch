@@ -33,8 +33,8 @@
 
 ## C. Cherry Pick
 
-1. - [ ] Y erstellt einen experimentellen Branch
-2. - [ ] Y macht einige Commits im experimentellen Branch
+1. - [x] Y erstellt einen experimentellen Branch
+2. - [x] Y macht einige Commits im experimentellen Branch
 3. - [ ] X cherry-pickt einen spezifischen Commit in den main Branch
 
 ## D. Reflog
