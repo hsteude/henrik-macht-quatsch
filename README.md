@@ -20,8 +20,8 @@
 
 1. - [x] X erstellt den ersten Commit in main
 2. - [x] X macht eine kleine Änderung in einem zweiten Commit
-3. - [ ] Y erstellt einen Feature-Branch von main
-4. - [ ] Y macht Änderungen im Feature-Branch
+3. - [x] Y erstellt einen Feature-Branch von main
+4. - [x] Y macht Änderungen im Feature-Branch
 5. - [x] X macht weitere Änderungen in main
 6. - [ ] Y rebaset den Feature-Branch auf den aktuellen main
 
