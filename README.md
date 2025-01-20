@@ -27,7 +27,7 @@
 
 ## B. Interaktiver Rebase (Squash und Umbenennen)
 
-1. - [ ] Y macht mehrere kleine Commits im Feature-Branch, die super wichtig sind
+1. - [x] Y macht mehrere kleine Commits im Feature-Branch, die super wichtig sind, aber auch hart krass
 2. - [ ] X beschwert sich über zu viele Commits, zu recht
 3. - [ ] Y führt einen interaktiven Rebase durch, um:
 
@@ -52,3 +52,6 @@
 
 1. - [ ] Zusammenfassung der wichtigsten Punkte
 2. - [ ] Beantwortung von Fragen aus dem Publikum
+
+
+Extra zeile
